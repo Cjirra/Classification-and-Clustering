@@ -5,5 +5,6 @@ For the classification task, various supervised machine learning techniques are 
 
 The clustering algorithms considered include K-means, PAM, CLARA, and Hierarchical Clustering.
 
-Classification Accuracy - 84%
-Optimal Clusters - 8
+#Classification Accuracy - 84%
+
+#Optimal Clusters - 8
